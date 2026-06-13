@@ -119,15 +119,10 @@ Please ensure your code adheres to the project's existing style and standards.
 ## Author Info
 
 **Num Codes**
-*   LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-*   X (Twitter): [@yourhandle](https://x.com/yourhandle)
+*   LinkedIn: [Ugochukwu Nweze](https://linkedin.com/in/ugochukwu-nweze-08812a2b8)
+*   X (Twitter): [@CodesNum80638](https://x.com/CodesNum80638)
 *   GitHub: [numcodes](https://github.com/numcodes)
 
-## License
-
-No explicit license file was found in the repository. Please contact the author for details regarding usage and distribution.
-
----
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
