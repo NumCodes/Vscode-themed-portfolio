@@ -32,12 +32,12 @@ Getting this project up and running on your local machine is pretty straightforw
     ```ini
     DEV_TO_API_KEY = your-dev-to-api-key
     GITHUB_API_KEY = your-github-api-key
-    NEXT_PUBLIC_GITHUB_USERNAME = your-github-username
+    NEXT_PUBLIC_GITHUB_USERNAME = your-github-username-like-numcodes
     ```
 
     *   **`DEV_TO_API_KEY`**: Get this from your Dev.to settings to fetch your published articles.
     *   **`GITHUB_API_KEY`**: Generate a Personal Access Token from GitHub (Settings > Developer settings > Personal access tokens) if you encounter rate limits or need to fetch private data (though this project primarily uses public data). For public data, it might not be strictly necessary, but good practice.
-    *   **`NEXT_PUBLIC_GITHUB_USERNAME`**: Your GitHub username to display your profile and repositories.
+    *   **`NEXT_PUBLIC_GITHUB_USERNAME`**: Your GitHub username (e.g., `numcodes`) to display your profile and repositories.
 
 4.  **Run the Development Server**:
     After setting up the environment variables, you can start the development server.
@@ -119,11 +119,15 @@ Please ensure your code adheres to the project's existing style and standards.
 ## Author Info
 
 **Num Codes**
-*   Whatsapp: [+2349037910725]
-*   LinkedIn: [Ugochukwu Nweze](https://linkedin.com/in/ugochukwu-nweze-08812a2b8)
-*   X (Twitter): [@CodesNum80638](https://x.com/CodesNum80638)
+*   LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+*   X (Twitter): [@yourhandle](https://x.com/yourhandle)
 *   GitHub: [numcodes](https://github.com/numcodes)
 
+## License
+
+No explicit license file was found in the repository. Please contact the author for details regarding usage and distribution.
+
+---
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
