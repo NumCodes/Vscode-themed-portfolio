@@ -27,11 +27,6 @@ const contactItems = [
     href: 'https://x.com/CodesNum80638',
   },
   {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: '#',
-  },
-  {
     social: 'youtube',
     link: 'numcodes',
     href: 'youtube.com/@numcodes',
