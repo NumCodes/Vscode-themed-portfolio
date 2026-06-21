@@ -119,8 +119,8 @@ Please ensure your code adheres to the project's existing style and standards.
 ## Author Info
 
 **Num Codes**
-*   LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-*   X (Twitter): [@yourhandle](https://x.com/yourhandle)
+*   LinkedIn: [Ugochukwu Nweze](https://linkedin.com/in/ugochukwu-nweze-08812a2b8)
+*   X (Twitter): [@CodesNum80638](https://x.com/CodesNum80638)
 *   GitHub: [numcodes](https://github.com/numcodes)
 
 ## License
