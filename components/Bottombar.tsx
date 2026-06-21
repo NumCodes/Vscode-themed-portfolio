@@ -20,7 +20,7 @@ const Bottombar = ({ onTerminalToggle, isTerminalOpen }: BottombarProps) => {
     <footer className={styles.bottomBar}>
       <div className={styles.container}>
         <a
-          href="https://github.com/numcodes/vscode-portfolio"
+          href="https://github.com/NumCodes/Vscode-themed-portfolio"
           target="_blank"
           rel="noreferrer noopener"
           className={styles.section}
